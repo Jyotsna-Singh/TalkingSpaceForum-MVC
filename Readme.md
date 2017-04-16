@@ -1,30 +1,51 @@
-# Secret Diary
+# TalkingSpaceForum
 
-Secret Diary is an online diary application built with PHP. Users can register to create an account and login to store their thoughts in the diary.
+TalkingSpaceForum is an online tech discussion forum similar to StackOverflow.com.Guest Users can view all discussions. Users can register to create an account and then login to create topics/threads, and participate in discussion threads by replying to comments. Users can view topics by category as well. Users can view the profile of another user which displays all the posts and comments by that user.
+A beautiful editor has been used so that users can reply/post in custom text.
 
 * Features/Technologies: 
-  * PHP Syntax, PHPMyAdmin, MySQL
+  * Custom MVC
+  * Bootstrap Framework
+  * PHP OOP, PHPMyAdmin, MySQL
   * HTML/CSS
-  * Bootstrap
-  * Custom Font
+  * PDO & Perpared Statements, MySQL CRUD, Loops, Superglobals (GET, POST), Associative Arrays
+  * Custom Template, User & Topic Libs, Sessions
+  * CKEditor
   
 
 ## Version
-1.0
+1.0.0
 
 ## Live Demo
- [SecretDiary](http://jyotsna-singh-com.stackstaging.com/projects/php/SecretDiary/)
+ [TalkingSpaceForum](http://jyotsna-singh-com.stackstaging.com/projects/php/TalkingSpaceForum/)
 
 ## Snapshots
   
  **Home** | 
 --- |
- ![alt text](https://github.com/Jyotsna-Singh/PHP-SecretDiary/blob/master/img/home.PNG)   |
+ ![alt text](https://github.com/Jyotsna-Singh/TalkingSpaceForum-MVC/blob/master/images/demo/home.PNG)   |
  
- **Diary** | 
+ **View Discussion Thread** | 
 --- |
- ![alt text](https://github.com/Jyotsna-Singh/PHP-SecretDiary/blob/master/img/diary.PNG)   |
+ ![alt text](https://github.com/Jyotsna-Singh/TalkingSpaceForum-MVC/blob/master/images/demo/topic.PNG)   |
+ 
+  **Comment/Reply to Thread** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/TalkingSpaceForum-MVC/blob/master/images/demo/reply.PNG)   |
+ 
+ **View all topics in a Category** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/TalkingSpaceForum-MVC/blob/master/images/demo/search.PNG)   |
   
+ **Create new Discussion Thread** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/TalkingSpaceForum-MVC/blob/master/images/demo/create.PNG)   |
+  
+## Vendors   
+
+Bootstrap  - [http://getbootstrap.com/](http://getbootstrap.com/)   
+
+CkEditor   - [http://ckeditor.com/](http://ckeditor.com/) 
 
 ## License
 MIT License
