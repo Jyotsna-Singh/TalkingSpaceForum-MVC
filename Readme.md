@@ -9,8 +9,8 @@ A beautiful editor has been used so that users can reply/post in custom text.
   * PHP OOP, PHPMyAdmin, MySQL
   * HTML/CSS
   * PDO & Perpared Statements, MySQL CRUD, Loops, Superglobals (GET, POST), Associative Arrays
-  * Custom Template, User & Topic Libs, Sessions
-  * CKEditor
+  * Custom Template, User & Topic Libs, Sessions
+  * CKEditor
   
 
 ## Version
