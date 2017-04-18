@@ -1,6 +1,6 @@
 <p align="center">
   <br><br>
-  <img src="https://github.com/Jyotsna-Singh/TalkingSpaceForum-MVC/blob/master/images/demo/logo.PNG">
+  <img src="https://github.com/Jyotsna-Singh/TalkingSpaceForum-MVC/blob/master/images/demo/logo2.PNG">
 </p>
 
 [![License](https://img.shields.io/packagist/l/cakephp/app.svg?style=flat-square)](http://jyotsnasingh.com/projects/php/TalkingSpaceForum/)
